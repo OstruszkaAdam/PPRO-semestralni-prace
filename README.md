@@ -1,6 +1,6 @@
 ﻿PPRO projekt – jádro aplikace pro výuku teorie grafů
 =====================================================
-**Webová aplikace vznikla jako semestrální práce na předmět PPRO. Řeší základní funkčnost jako přidávání obsahu (články a komentáře k nim, obrázky, grafy), správu a přihlašování uživatelů, jednoduchý frontend. Původně měla tvořit základ mnohem většíaplikace, která by vznikala v rámci diplomových prací a byla studentům i učitelům oporou při výuce teorie grafů. K realizaci nakonec nedošlo, protože každý z autorů si pro diplomku vybral jiný projekt.**
+**Webová aplikace vznikla jako semestrální práce na předmět PPRO. Řeší základní funkčnost jako přidávání obsahu (články a komentáře k nim, obrázky, grafy), správu a přihlašování uživatelů, jednoduchý frontend. Původně měla tvořit základ mnohem větší aplikace, která by vznikala v rámci diplomových prací autorů a byla studentům i učitelům oporou při výuce teorie grafů. K realizaci nakonec nedošlo, protože každý z autorů si pro diplomku vybral jiný projekt.**
 
 Backend
 ---------
